@@ -1,0 +1,155 @@
+.two a{
+    font-size: 25px;
+}
+.col-lg-8 h1{
+    font-size: 50px;
+}
+.col-lg-8 p{
+    font-size: 20px;
+}
+.col-lg-8 span{
+    color: orangered;
+}
+.col-lg-4 input{
+    padding: 8px;
+    padding-right: 45%;
+border-radius: 10px;
+}
+/* .col-lg-8 input{
+    border-style: hidden;
+    border: 1px solid black;
+    width: 80%;
+    font-size: 20px;
+    padding-right: 40%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.col-lg-8 i{
+    font-size: 30px;
+} */
+.dropdown-menu {
+   padding-right: 20px;
+}
+.col-lg-4{
+    background-color: black;
+    border-radius: 20px;
+    padding: 20px;
+}
+.col-lg-4 h1{
+    text-align: center;
+    color: #fff;
+}
+.dropdown button{
+    padding-right: 30%;
+    margin-left: 60px;
+}
+.col-lg-4 button{
+    padding-left: 35%;
+    padding-right: 40%;
+    /* padding: 10px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 12px;
+    background-color: orangered;
+    color: #fff;
+}
+
+.xts-home-category h2{
+    font-size: 50px;
+}
+.xts-home-category p{
+    font-size: 25px;
+}
+.xts-home-category{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.category-tile{
+    padding: 20px;
+    cursor: pointer;
+    transition: 2s;
+    transition-property: background-color;
+}
+/* .category-tile:hover{
+    background-color: orangered;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 30px;
+} */
+/* .col-lg-3 .moon{
+    background-image: url('https://swiftcare.pk/wp-content/uploads/2022/02/Top-10-Reasons-Why-Air-Conditioning-Service-is-Important-Featured.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.col-lg-3 h1,p{
+    color: #fff;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
